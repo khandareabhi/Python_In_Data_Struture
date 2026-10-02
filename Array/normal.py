@@ -10,6 +10,7 @@ while(i<=num):
 
 print("\nOdd number: ",end=" ")
 i=0
+i=0
 while(i<num):
     if(i%2==1):
         print(" ",i,end=" ")
