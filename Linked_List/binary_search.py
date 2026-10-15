@@ -7,12 +7,15 @@ high=len(a)-1
 
 while low<=high:
     mid=(low+high)//2
+
     if a[mid]==target:
         print("Target found at index:",mid)
         break
     elif a[mid]<target:
         low=mid+1
     else:
-        high=mid-1
+        high=mid-1 # logic
+
+
 
     
