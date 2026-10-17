@@ -1,4 +1,5 @@
 l=(1,2,3)
+print(type(l))
 
 my_list=list(l)
 
