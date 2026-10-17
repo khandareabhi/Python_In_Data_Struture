@@ -1,6 +1,6 @@
 a=[3,4,5,6,7,8,20,25]
 
-target=20
+target=int(input("Enter the target value:"))
 
 low=0
 high=len(a)-1
