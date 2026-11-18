@@ -1,14 +1,15 @@
 matrix = [
     [0, 0, 5],
     [0, 0, 0],
-    [8, 0, 0]
+    [8, 0, 0],
+    [4, 0, 9]
 ]
 
 zero = 0
 nonzero = 0
 
-for i in range(3):
-    for j in range(3):
+for i in range(4):
+    for j in range(4):
         if matrix[i][j] == 0:
             zero += 1
         else:
