@@ -24,7 +24,7 @@ if zero > nonzero:
 else:
     print("It is not a Sparse Matrix")
 
-print("Zero elements:", zero)
+print("Zero elements:", zero) # print the zero elements in the matrix and also count the zero elements in the matrix.
 print("Non-zero elements:", nonzero) # all about the matrix and that sparse
 
 # this is all the matrix is sparse matrix or not and also count the zero and non-zero elements in the matrix.
