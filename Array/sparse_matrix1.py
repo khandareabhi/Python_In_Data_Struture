@@ -30,3 +30,4 @@ print("Non-zero elements:", nonzero) # all about the matrix and that sparse
 # this is all the matrix is sparse matrix or not and also count the zero and non-zero elements in the matrix.
 # same matrix is used in the above code and also the same output is given.
 # time complexity is O(n^2) and space complexity is O(1)
+# all about the sparse matrix and also the same output is given in the above code.
