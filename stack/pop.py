@@ -5,6 +5,7 @@ stack.append(30)
 stack.append(40)
 stack.append(50)
 stack.append(60)
+stack.append(70)
 
 print(stack)
 
