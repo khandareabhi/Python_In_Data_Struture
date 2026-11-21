@@ -8,6 +8,7 @@ stack.append(40)
 print(stack)
 
 stack.pop()
+stack.pop()
 
 print(stack)
 
