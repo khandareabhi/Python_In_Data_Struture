@@ -10,6 +10,10 @@ class queue:
             return None
         else:
             return self.values.pop(0)
-            
 
-    
+
+
+q1=queue()
+
+q1.enqueue(10)
+q1.enqueue(20)
