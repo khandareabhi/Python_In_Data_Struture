@@ -9,7 +9,7 @@ class queue:
         if len(self.values)==0:
             return None
         else:
-            return self.values.pop(0)
+            return self.values.pop(0) #help to delete the element 
 
 
 
