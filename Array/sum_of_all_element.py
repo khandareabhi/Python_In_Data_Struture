@@ -4,4 +4,4 @@ for i in arr:
     sum=arr[i]
 
 
-print("sum of the array is under",sum)
+print("Sum of Array: ",sum)
