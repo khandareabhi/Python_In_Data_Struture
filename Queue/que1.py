@@ -17,3 +17,9 @@ q1=queue()
 
 q1.enqueue(10)
 q1.enqueue(20)
+q1.enqueue(30)
+
+print(q1.dequeue())
+
+print(q1.values)
+
