@@ -4,7 +4,7 @@ search=500
 found=False
 
 for i in arr:
-    if(i==search):
+    if(i==search): # searching the element in the array
         found=True
 
 if(found):
