@@ -5,5 +5,5 @@ for i in arr:
     sum=sum+i
 
 
-print("sum of all in the array: ",sum)
+print("Sum of Array:",sum)
 
