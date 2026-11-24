@@ -7,4 +7,4 @@ print(queue)
 
 queue.pop(1) #deleted the element at index 1 from the queue
 
-print(queue)
+print(queue) #print the updated queue after deleting the element at index 1
