@@ -3,7 +3,7 @@ queue=[40,50,60,70,45] #initializing the queue with some values
 queue.append(30)
 queue.append(40)
 
-print(queue)
+print(queue)  #print the queue after adding two elements at the end of the queue
 
 queue.pop(1) #deleted the element at index 1 from the queue
 
