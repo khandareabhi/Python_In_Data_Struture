@@ -14,6 +14,6 @@ print(arr[-2]) # this is print the second last element in the array
 for i in arr:
 
     if(i==60):
-     print("true")
+     print("true") # this is print the true if the element is present in the array
      
 print(i) # print the last element in the array after the loop is completed
