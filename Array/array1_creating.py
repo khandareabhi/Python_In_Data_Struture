@@ -6,6 +6,7 @@ print(arr[2])
 print(arr[3])
 print(arr[1]) # this is index at the 1 means 2 number element array start index from 0
 print(arr[-1]) # this is print the last element in the array
+print(arr[-2]) # this is print the second last element in the array
 
 
 # for loop printing 
