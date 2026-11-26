@@ -15,6 +15,6 @@ class Solution(object):
             arr.append(head.val)
             head=head.next
         
-        return arr==arr[::-1]
+        return arr==arr[::-1] # this is used to check the palindrome in the linked list if it is same from left to right and right to left then it is palindrome otherwise not
 
         
