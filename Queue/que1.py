@@ -18,7 +18,7 @@ q1=queue() # create the class object of queue USE THE CLASS TO ACCESS
 q1.enqueue(10)
 q1.enqueue(20)  # using append added the all element in the queue
 q1.enqueue(30) 
-q1.enqueue(40)
+q1.enqueue(40) #updated this 
 
 print(q1.dequeue()) #deleted the item in that 
 
