@@ -7,4 +7,4 @@ for i in arr:
     sum=sum+i
 
 print("How many element present in that: ",count)
-print("Sum of all element in that array: ",sum)
+print("Sum of all element in that array: ",sum) # sum of all element in that array is 10+20+50+60+5678+45+85=5958
