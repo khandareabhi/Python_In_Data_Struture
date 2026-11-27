@@ -15,7 +15,7 @@ print(stack)
 print(stack[::-1]) # get the last element in this for the easy way in this for the improvement in this 
 
 if len(stack)==0:
-    print("Empty stack")
+    print("Empty stack") #stack is empty see there
 else:
     print("Not Empty")
 
